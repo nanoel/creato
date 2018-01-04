@@ -1,0 +1,2 @@
+[2017-11-22 10:26:35] layer "username@mail.com": Unsupported extension: com
+[2017-11-22 10:26:35] layer "+000-111-2222 +000-112-2322": Expected Either a default asset specification or a layer asset specification but "+" found.
